@@ -14,7 +14,7 @@ This repository serves as a collection of my lab assignments for the HPC course.
 
 ## Directory Structure
 
-- `Assignment-1/`: [Brief description of the first assignment]
+- `Assignment-1/`: Introductory lab for CPU architecture, Triad, Measuring Performance
 - `Assignment-2/`: [Brief description of the second assignment]
 - ...
 - `Assignment-N/`: [Brief description of the Nth assignment]
@@ -25,7 +25,13 @@ This repository serves as a collection of my lab assignments for the HPC course.
 If you are a fellow student or anyone interested in the solutions, you can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/hpc-lab-assignments.git
+https://github.com/GOR-OM/High-Performance-Computing-Lab.git
 
 ```
 
+## Contributing
+
+If you find any issues with the solutions or have improvements to suggest, feel free to create a pull request or open an issue.
+
+## Contact
+If you have any questions or need further clarification, you can contact me at 202101484@daiict.ac.in .
